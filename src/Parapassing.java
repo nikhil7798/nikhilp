@@ -10,7 +10,7 @@ public class Parapassing
 	public static void main(String[] args) 
 	{
 	 Parapassing a=new Parapassing();
-	 a.m1(7,"Ganesh");
+	 a.m1(7,"Ganesh Sir");
 
 	}
 
